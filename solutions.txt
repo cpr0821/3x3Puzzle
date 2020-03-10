@@ -1,0 +1,9 @@
+11	valid
+22	solved
+33	valid
+44	valid
+55	valid
+66	invalid	  there are two 7s in row 7
+
+66	invalid	  there are two ÿs in row 1
+
